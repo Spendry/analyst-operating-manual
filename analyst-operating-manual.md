@@ -38,7 +38,7 @@ You work across Lean operations and quantitative finance. The seven-step loop in
 - **Pareto (80/20):** most of the loss hides behind a few causes. Rank them and you find the fix.
 - **Bottleneck / Theory of Constraints:** the slowest step sets the whole line's speed. Fix anything else and nothing improves.
 - **Defect rate and DPMO:** how often quality fails.
-- **DMAIC:** Define, Measure, Analyze, Improve, Control. The Six Sigma spine your green belt teaches, and it maps cleanly onto the loop.
+- **DMAIC:** Define, Measure, Analyze, Improve, Control. The Six Sigma spine a green belt course teaches, and it maps cleanly onto the loop.
 - **SPC and control charts:** is a swing normal variation or a real signal.
 
 **Where the data lives:** MES and hour-by-hour tables, ERP exports (SAP MB51 and friends), time studies, quality logs, downtime trackers.
@@ -360,7 +360,7 @@ Work the escalation in order. Each step takes longer than the last; each is chea
 
 **Stuck on the chart or the message:** Cole Nussbaumer Knaflic's *Storytelling with Data* blog (free), the matplotlib gallery for "how do I draw this."
 
-**Operations domain ground truth:** your own Lean Six Sigma green belt material for DMAIC and SPC, ASQ references for OEE and control charts.
+**Operations domain ground truth:** Lean Six Sigma green belt material for DMAIC and SPC, ASQ references for OEE and control charts.
 
 **Finance domain ground truth:** the Kenneth French Data Library documentation for what each factor means, FRED itself, where every series carries its own description and source notes.
 
